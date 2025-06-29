@@ -20,7 +20,7 @@ Perfect for store managers and developers who want to sync their inventory from 
 
 **Seyed Ali Emami**  
 📧 aliemamidev@gmail.com  
-💼 [LinkedIn](https://linkedin.com) – [GitHub](https://github.com) *(Add your profile links if you want)*
+💼 [LinkedIn](https://www.linkedin.com/in/aliemdev/) – [GitHub](https://github.com/aliemamidev)
 
 ---
 
