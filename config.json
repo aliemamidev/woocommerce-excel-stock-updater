@@ -1,0 +1,19 @@
+{
+  "woocommerce_api": {
+    "url": "https://example.com/wp-json/wc/v3/products",
+    "consumer_key": "ck_your_consumer_key",
+    "consumer_secret": "cs_your_consumer_secret"
+  },
+  "excel": {
+    "input_file": "input.xlsx",
+    "output_file": "output_updated.xlsx",
+    "product_identifier_column": "Code",
+    "update_column": "New Quantity",
+    "use_sku": false,
+    "_comment_use_sku": "If true, the script will use SKU instead of Product ID to match products (e.g., ABC123 instead of 101)"
+  },
+  "settings": {
+    "max_threads": 10,
+    "log_file": "product_update.log"
+  }
+}
